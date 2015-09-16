@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說金身陀羅尼經
+#+DATE: 2015-08-30 20:37:04.553575
+#+PROPERTY: JUAN 0
